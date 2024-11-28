@@ -21,11 +21,7 @@ The repository is organized as follows:
   ```sh
   git clone https://github.com/TheRealKrishna/MCA-1-CPP-Lab-Programs
   ```
-2. Navigate to the desired directory:
-  ```sh
-  cd Lab Record
-  ```
-3. Compile and run the C++ programs using your preferred compiler.
+2. Compile and run the C++ programs using your preferred compiler.
 
 ## License
 
